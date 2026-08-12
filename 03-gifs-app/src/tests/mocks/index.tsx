@@ -1,0 +1,1 @@
+export { gifphyResponseMock } from './gifphy.response.data';
